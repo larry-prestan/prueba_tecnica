@@ -1,0 +1,18 @@
+nav>.navbar-brand{
+    color: blue;
+}
+nav>a>span{
+    color: red ;
+    font-style: oblique;
+}
+.navbar{
+    background-color: lightgray;
+}
+
+#root-container{
+    padding: 1%;
+    margin-top: 5%;
+    width: 45%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
